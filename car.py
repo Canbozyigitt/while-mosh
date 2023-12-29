@@ -4,7 +4,7 @@ while(i<3):
     print("start - to star to car")
     print("stop - to stop to car")
     print("quit - to exit")
-    cevap=input("hangisini yapmak istiyorsanız yazınız: ")
+    cevap=input("Hangisini yapmak istiyorsanız yazınız: ")
     if(cevap=="start"):
         print("to star to car")
         break
