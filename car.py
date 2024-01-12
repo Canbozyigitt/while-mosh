@@ -6,7 +6,7 @@ while(i<3):
     print("quit - to exit")
     cevap=input("Hangisini yapmak istiyorsanız yazınız: ")
     if(cevap=="start"):
-        print("to star to car")
+        print("To star to car")
         break
     elif(cevap=="stop"):
         print("to stop to car")
