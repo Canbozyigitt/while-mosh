@@ -9,7 +9,7 @@ while(i<3):
         print("To star to car")
         break
     elif(cevap=="stop"):
-        print("to stop to car")
+        print("To stop to car")
         break
     elif(cevap=="quit"):
         print("to exit")       
