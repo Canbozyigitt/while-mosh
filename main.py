@@ -8,5 +8,5 @@ while (kullanılan_hak<hak):
         print("Yanlış sayi girdiniz tekrar deneyin")
         kullanılan_hak+=1
     else:
-        print("doğru sayıyı bildiniz")    
+        print("Doğru sayıyı bildiniz tebrikler ...")    
         break
